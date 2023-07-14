@@ -62,3 +62,4 @@ With your preferred editor, edit the file docker-compose.yaml and replace the li
 
 ## Run :running_man: the docker-compose command   
 `docker-compose up`
+# TrustyAI
